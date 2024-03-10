@@ -32,7 +32,7 @@ serde-wasm-bindgen = "0.6.1"
 log = "0.4.20"
 
 # leptos feature
-leptos = { version = "0.5.2", optional = true }
+leptos = { version = "0.6.9", optional = true }
 
 [dev-dependencies]
 # comment when target is set to wasm in .cargo/config.toml
